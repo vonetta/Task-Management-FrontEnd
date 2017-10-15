@@ -1,0 +1,9 @@
+C:\Users\steve\Documents\udemy\todo-list\todo-list\bin\todo-list.dll.config
+C:\Users\steve\Documents\udemy\todo-list\todo-list\bin\todo-list.dll
+C:\Users\steve\Documents\udemy\todo-list\todo-list\bin\todo-list.pdb
+C:\Users\steve\Documents\udemy\todo-list\todo-list\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Documents\udemy\todo-list\todo-list\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Documents\udemy\todo-list\todo-list\obj\Debug\todo-list.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\udemy\todo-list\todo-list\obj\Debug\todo-list.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\udemy\todo-list\todo-list\obj\Debug\todo-list.dll
+C:\Users\steve\Documents\udemy\todo-list\todo-list\obj\Debug\todo-list.pdb
